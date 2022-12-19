@@ -1,0 +1,159 @@
+.request {
+  background-image: url("../assets/menu.png");
+  width: 44px;
+  height: 36px;
+  background-position: 0px 0px;
+  margin: 0px 20px;
+  border-bottom-color: #39badf;
+}
+.order {
+  background-image: url("../assets/menu.png");
+  width: 42px;
+  height: 36px;
+  background-position: -44px 0px;
+  margin: 0px 20px;
+  border-bottom-color: #55df39;
+}
+.finance {
+  background-image: url("../assets/menu.png");
+  width: 36px;
+  height: 36px;
+  background-position: -36px -77px;
+  margin: 0px 20px;
+  border-bottom-color: #67cdbb;
+}
+.client {
+  background-image: url("../assets/menu.png");
+  width: 49px;
+  height: 36px;
+  background-position: -125px 0px;
+  margin: 0px 20px;
+  border-bottom-color: #faa502;
+}
+.carrier {
+  background-image: url("../assets/menu.png");
+  width: 40px;
+  height: 36px;
+  background-position: -85px 0px;
+  margin: 0px 20px;
+  border-bottom-color: #efca02;
+}
+.report {
+  background-image: url("../assets/menu.png");
+  width: 32px;
+  height: 36px;
+  background-position: -175px 0px;
+  margin: 0px 20px;
+  border-bottom-color: #e4322f;
+}
+.task {
+  background-image: url("../assets/menu.png");
+  width: 36px;
+  height: 36px;
+  background-position: 0px -77px;
+  margin: 0px 20px;
+  border-bottom-color: #4f74fc;
+}
+
+.setting {
+  background-image: url("../assets/menu.png");
+  width: 34px;
+  height: 36px;
+  background-position: -207px 0px;
+  margin: 0px 20px;
+  border-bottom-color: #8e3adf;
+}
+.tabBtn {
+  border-radius: 10px;
+  background-color: #39badf;
+  padding: 10px;
+}
+.filterBox {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.tree {
+  margin: 8px;
+  cursor: pointer;
+  padding: 3px;
+  border-radius: 2px;
+}
+.css-aym9vq-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  color: #1976d2;
+  background-color: #7de9e2;
+}
+.css-1tnnsql.Mui-selected {
+  background-color: #7de9e2;
+}
+@media only screen and (max-width: 1024px) {
+  .filterBox {
+    display: block;
+    margin-top: 10px;
+  }
+  .request {
+    background-image: url("../assets/menu.png");
+    width: 44px;
+    height: 36px;
+    background-position: 0px 0px;
+    margin: 0px 0px;
+    border-bottom-color: #39badf;
+  }
+  .order {
+    background-image: url("../assets/menu.png");
+    width: 42px;
+    height: 36px;
+    background-position: -44px 0px;
+    margin: 0px 0px;
+    border-bottom-color: #55df39;
+  }
+  .finance {
+    background-image: url("../assets/menu.png");
+    width: 36px;
+    height: 36px;
+    background-position: -36px -77px;
+    margin: 0px 0px;
+    border-bottom-color: #67cdbb;
+  }
+  .client {
+    background-image: url("../assets/menu.png");
+    width: 49px;
+    height: 36px;
+    background-position: -125px 0px;
+    margin: 0px 0px;
+    border-bottom-color: #faa502;
+  }
+  .carrier {
+    background-image: url("../assets/menu.png");
+    width: 40px;
+    height: 36px;
+    background-position: -85px 0px;
+    margin: 0px 0px;
+    border-bottom-color: #efca02;
+  }
+  .report {
+    background-image: url("../assets/menu.png");
+    width: 32px;
+    height: 36px;
+    background-position: -175px 0px;
+    margin: 0px 0px;
+    border-bottom-color: #e4322f;
+  }
+  .task {
+    background-image: url("../assets/menu.png");
+    width: 36px;
+    height: 36px;
+    background-position: 0px -77px;
+    margin: 0px 0px;
+    border-bottom-color: #4f74fc;
+  }
+
+  .setting {
+    background-image: url("../assets/menu.png");
+    width: 34px;
+    height: 36px;
+    background-position: -207px 0px;
+    margin: 0px 0px;
+    border-bottom-color: #8e3adf;
+  }
+}
